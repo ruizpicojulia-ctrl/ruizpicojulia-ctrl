@@ -10,10 +10,15 @@ My focus when working with data is on creating clear, aesthetically pleasing rep
 ### Languages
 - Python
 - R
+- SQL
 ### Other programs 
 - AutoCAD
 - Procreate
 - Statgraphics
+
+## Hobbies
+- Language learning (fluent in English, currently working towards Chinese HSK3, and getting my start with Russian!)
+- Hand-drawn and digital illustration.  
 
 <!--
 **ruizpicojulia-ctrl/ruizpicojulia-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
